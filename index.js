@@ -2,7 +2,7 @@ const { Extra, Markup, Telegraf } = require("telegraf");
 
 require("dotenv").config();
 // const TOKEN = process.env.TOKEN;
-const TOKEN = "1613213823:AAEVLJWuKUzVi55rzJnrl8RHOCMPIaOms2o";
+const TOKEN = "1525540086:AAE9dJAxVKuOVhNgmYtOhh_1J64W_ogwY-U";
 
 const bot = new Telegraf(TOKEN);
 // const http = require("http");
